@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Object
+  - MoveSpot
+  - GunArm
+  - Ground
+  - Pink
+  - Wall
+  - Undefined
+  - EnemyBullet
+  - Bullet
+  - PlayerBullet
+  - Sword
+  - NonInBullet
+  - Hand
+  - Object_Faint
+  - SwitchSword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - wall
+  - object
+  - knife
+  - bullet
+  - Pass
+  - enemybullet
+  - objectFaint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Body
+    uniqueID: 4223219669
+    locked: 0
+  - name: Gun
+    uniqueID: 991552533
+    locked: 0
+  - name: Wall
+    uniqueID: 2422264079
+    locked: 0

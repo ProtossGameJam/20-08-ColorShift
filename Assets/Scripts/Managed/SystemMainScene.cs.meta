@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d6ad0d010bdba048aeb12c85b462ccd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MainBgm: {fileID: 8300000, guid: 6c1cd0c6242175a4bbc92b165a570cb0, type: 3}
+  - ClickSfx: {instanceID: 0}
+  - game: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
